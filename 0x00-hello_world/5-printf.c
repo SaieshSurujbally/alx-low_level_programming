@@ -7,7 +7,7 @@
  * art,"
  *
  * Return: Always 0 (Success)
- * */
+ */
 int main(void)
 {
 	/* This line prints a message to the standard output */
