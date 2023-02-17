@@ -9,7 +9,7 @@
  * Description: print last digit in random number
  *
  * Return: Always 0 (Sucess)
- * */
+ **/
 
 int main(void)
 {
