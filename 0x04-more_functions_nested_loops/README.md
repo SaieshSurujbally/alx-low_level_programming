@@ -7,3 +7,4 @@ more numbers
 print diagonal
 print square
 fizz buzz
+print triangle
