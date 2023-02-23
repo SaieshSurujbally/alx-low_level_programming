@@ -8,3 +8,4 @@ print diagonal
 print square
 fizz buzz
 print triangle
+prime factor
