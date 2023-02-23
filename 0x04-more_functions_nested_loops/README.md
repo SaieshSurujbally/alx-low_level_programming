@@ -6,3 +6,4 @@ print most numbers
 more numbers
 print diagonal
 print square
+fizz buzz
