@@ -1,2 +1,3 @@
 supper
 isdigit
+mul
