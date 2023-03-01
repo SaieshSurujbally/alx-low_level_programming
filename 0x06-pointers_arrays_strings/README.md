@@ -6,3 +6,4 @@ string toupper
 cap string
 leet
 rot
+print number
