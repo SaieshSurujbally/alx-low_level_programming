@@ -9,3 +9,4 @@ rot
 print number
 magic
 infinite add
+print buffer
