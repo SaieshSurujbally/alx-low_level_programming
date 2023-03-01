@@ -8,3 +8,4 @@ leet
 rot
 print number
 magic
+infinite add
