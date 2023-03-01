@@ -7,3 +7,4 @@ cap string
 leet
 rot
 print number
+magic
