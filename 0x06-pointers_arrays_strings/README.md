@@ -1,1 +1,2 @@
 Strcat.c
+strncpy
