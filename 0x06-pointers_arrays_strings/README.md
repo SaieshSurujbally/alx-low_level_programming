@@ -1,2 +1,3 @@
 Strcat.c
 strncpy
+strcmp
