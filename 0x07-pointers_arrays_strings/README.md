@@ -3,3 +3,4 @@ memcpy
 strchr
 strpbrk
 strstr
+print chessboard
