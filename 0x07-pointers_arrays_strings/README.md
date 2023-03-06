@@ -4,3 +4,4 @@ strchr
 strpbrk
 strstr
 print chessboard
+print diagsums
