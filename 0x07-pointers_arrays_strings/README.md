@@ -5,3 +5,4 @@ strpbrk
 strstr
 print chessboard
 print diagsums
+set string
