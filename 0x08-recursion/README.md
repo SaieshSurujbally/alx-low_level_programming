@@ -6,3 +6,4 @@ factorial
 sqrt recursions
 is prime number
 is palindrome
+wildcmp
