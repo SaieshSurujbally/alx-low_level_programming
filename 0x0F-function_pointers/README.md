@@ -4,3 +4,5 @@
 3-get_op_func.c
 3-main.c
 3-op_functions.c
+3-op_functions.c
+3-main.c
